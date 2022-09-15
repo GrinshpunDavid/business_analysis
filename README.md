@@ -21,3 +21,5 @@ Understand if in the current market conditions, will we be able to maintain your
 ### Results:
 - Best street to open new cafe: Sunset Boulevard.
 - Optimal number of seats is between 14 and 29.
+
+Presentation: <link https://drive.google.com/file/d/1EIDxCDxFeQMBGIo1X4KvI2bmREo-HBYj/view?usp=sharing>
